@@ -1,0 +1,13 @@
+/Users/ashish.kumar/Documents/Rust/HTTP_Req_Rust/HTTP_Request/target/debug/deps/liburl-4da5c193c045f644.rlib: /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/ashish.kumar/Documents/Rust/HTTP_Req_Rust/HTTP_Request/target/debug/deps/url-4da5c193c045f644.d: /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/Users/ashish.kumar/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:
