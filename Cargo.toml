@@ -1,0 +1,7 @@
+[package]
+name = "HTTP_Get_Request"
+version = "0.1.0"
+authors = ["Ashish Kumar <ashish.kumar@payu.in>"]
+
+[dependencies]
+reqwest = "0.8.3"
