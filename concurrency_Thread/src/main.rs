@@ -1,4 +1,4 @@
-// concurrency-bp
+// concurrency with time with sleeping.
 
 use std::{thread, time};
 
